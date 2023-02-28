@@ -11,7 +11,7 @@
 
 ## 💻 O Porque Das Minhas Escolhas Técnicas:
 
-#### Por conta da aplicação não ser de grande complexidade separei ela em 5 pastas principais "controllers","routes", "model", "multerconfig" e "middleware". para facilitar o entendimento irei explicar de forma leiga a função de cada uma.
+#### Separei a aplicação em 5 pastas principais "controllers","routes", "model", "multerconfig" e "middleware". para facilitar o entendimento irei explicar de forma leiga a função de cada uma.
 
 Na controllers é onde deixamos toda funcionalidade do sistema separado em funções 
 exemplo: Função A - Registra usuário
